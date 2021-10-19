@@ -1,0 +1,10 @@
+.results-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px 40px;
+}
+.results-container1{
+    display: contents;
+    justify-content: center;
+}
