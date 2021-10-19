@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Namegram/static/css/main.fb633193.chunk.css",
+    "main.js": "/Namegram/static/js/main.8489d1d8.chunk.js",
+    "main.js.map": "/Namegram/static/js/main.8489d1d8.chunk.js.map",
+    "runtime-main.js": "/Namegram/static/js/runtime-main.52e820bc.js",
+    "runtime-main.js.map": "/Namegram/static/js/runtime-main.52e820bc.js.map",
+    "static/js/2.ddb33e07.chunk.js": "/Namegram/static/js/2.ddb33e07.chunk.js",
+    "static/js/2.ddb33e07.chunk.js.map": "/Namegram/static/js/2.ddb33e07.chunk.js.map",
+    "index.html": "/Namegram/index.html",
+    "static/css/main.fb633193.chunk.css.map": "/Namegram/static/css/main.fb633193.chunk.css.map",
+    "static/js/2.ddb33e07.chunk.js.LICENSE.txt": "/Namegram/static/js/2.ddb33e07.chunk.js.LICENSE.txt",
+    "static/media/Headerlogo.dea6b705.svg": "/Namegram/static/media/Headerlogo.dea6b705.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52e820bc.js",
+    "static/js/2.ddb33e07.chunk.js",
+    "static/css/main.fb633193.chunk.css",
+    "static/js/main.8489d1d8.chunk.js"
+  ]
+}
